@@ -35,7 +35,7 @@
     "src": "images/hello-icon-196maskable.png",
     "sizes": "196x196",
     "type": "image/png",
-    "purpose": "any"
+    "purpose": "any maskable"
   }],
   "start_url": "/PWA00ADE/index.html",
   "display": "standalone",
